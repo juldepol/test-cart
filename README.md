@@ -16,9 +16,20 @@ DIRECTORY STRUCTURE
 
 REQUIREMENTS
 ------------
-Minimum PHP 5.4.0.
-Apache 2.4
-SQLite3
+* Minimum PHP 5.4.0.
+* Apache 2.4
+* SQLite3
 
 SCREENSHOTS
 -----------
+![Home page](https://github.com/juldepol/test-cart/blob/master/screenshots/Home.png)
+
+![Login page](https://github.com/juldepol/test-cart/blob/master/screenshots/Login.png)
+
+![Products page](https://github.com/juldepol/test-cart/blob/master/screenshots/Products.png)
+
+![Cart page](https://github.com/juldepol/test-cart/blob/master/screenshots/Cart.png)
+
+![Comment page](https://github.com/juldepol/test-cart/blob/master/screenshots/Comment.png)
+
+![Order page](https://github.com/juldepol/test-cart/blob/master/screenshots/Order.png)
