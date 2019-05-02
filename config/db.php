@@ -2,7 +2,7 @@
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'sqlite:c:\Apache24\htdocs\basic\config\test.db',
+    'dsn' => 'sqlite:c:\Apache24\htdocs\basic\database.db',
     //'username' => 'root',
     //'password' => '',
     'charset' => 'utf8',
